@@ -54,7 +54,7 @@ You can see my work experience in [LinkedIn](https://www.linkedin.com/in/almaz-a
 
 ### [Notes App](https://github.com/AlmazHecker/notes-app)
 
-[![Project Screenshot](/portfolio/notes-app.png)](/portfolio/notes-app.png)
+[![Project Screenshot](https://raw.githubusercontent.com/almazhecker/almazich/master/static/portfolio/notes-app.png)](https://raw.githubusercontent.com/almazhecker/almazich/master/static/portfolio/notes-app.png)
 
 Simple notes app developed using **Browser File System API** and AES-256 encryption feature.
 
@@ -64,7 +64,7 @@ Simple notes app developed using **Browser File System API** and AES-256 encrypt
 
 ### [Undertale Souls Fight](https://github.com/AlmazHecker/undertale-souls-fight)
 
-[![Undertale Souls Fight Screenshot](/portfolio/undertale-souls-fight.png)](/portfolio/undertale-souls-fight.png)
+[![Undertale Souls Fight Screenshot](https://raw.githubusercontent.com/almazhecker/almazich/master/static/portfolio/undertale-souls-fight.png)](https://raw.githubusercontent.com/almazhecker/almazich/master/static/portfolio/undertale-souls-fight.png)
 
 My First 2D game inspired by **Undertale**, built from scratch using **Vanilla JS**, **Pixi.js**, and **Vite**.
 
@@ -74,7 +74,7 @@ My First 2D game inspired by **Undertale**, built from scratch using **Vanilla J
 
 ### [Flexbox Froggy Clone](https://github.com/AlmazHecker/Flexbox-Froggy-clone)
 
-[![Flexbox Froggy Screenshot](/portfolio/flexbox-froggy-clone.png)](/portfolio/flexbox-froggy-clone.png)
+[![Flexbox Froggy Screenshot](https://raw.githubusercontent.com/almazhecker/almazich/master/static/portfolio/flexbox-froggy-clone.png)](https://raw.githubusercontent.com/almazhecker/almazich/master/static/portfolio/flexbox-froggy-clone.png)
 
 **React**-based clone of the original Flexbox Froggy game — perfect for mastering **CSS Flexbox** layout.
 
@@ -84,7 +84,7 @@ My First 2D game inspired by **Undertale**, built from scratch using **Vanilla J
 
 ### [Watch2gether](https://github.com/AlmazHecker/watch2gether)
 
-[![Watch2gether Screenshot](/portfolio/watch2gether.png)](/portfolio/watch2gether.png)
+[![Watch2gether Screenshot](https://raw.githubusercontent.com/almazhecker/almazich/master/static/portfolio/watch2gether.png)](https://raw.githubusercontent.com/almazhecker/almazich/master/static/portfolio/watch2gether.png)
 
 A simple, no-login-needed **WebRTC app** to watch YouTube videos with your friend, synced in real time. Share a session ID and start syncing up.
 

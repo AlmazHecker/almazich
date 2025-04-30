@@ -60,7 +60,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Almaz Altynbek uulu
     subtitle: "Full-Stack Engineer at RSK Tech"
-    imageUrl: "/avatar.webp"
+    imageUrl: "https://raw.githubusercontent.com/almazhecker/almazich/master/static/avatar.webp"
     imageWidth: 200
     imageHeight: 200
     imageTitle: Almaz Altynbek uulu
@@ -135,4 +135,3 @@ outputs:
 caches:
   images:
     dir: :cacheDir/images
-relativeURLS: true

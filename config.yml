@@ -59,7 +59,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Almaz Altynbek uulu
-    subtitle: "Full-Stack Engineer at RSK Tech"
+    subtitle: "Frontend Team Lead at RSK Tech"
     imageUrl: "https://raw.githubusercontent.com/almazhecker/almazich/master/static/avatar.webp"
     imageWidth: 200
     imageHeight: 200

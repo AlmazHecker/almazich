@@ -2,7 +2,7 @@
 title: Almaz Altynbek uulu
 pagination:
   pagerSize: 5
-theme: PaperMod
+theme: ["PaperMod"]
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -36,6 +36,7 @@ params:
   disableScrollToTop: false
   comments: false
   hidemeta: false
+  hideFooter: true
   hideSummary: false
   showtoc: false
   tocopen: false
@@ -59,7 +60,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Almaz Altynbek uulu
     subtitle: "Full-Stack Engineer at RSK Tech"
-    imageUrl: "https://placehold.co/400x400"
+    imageUrl: "/avatar.webp"
     imageWidth: 200
     imageHeight: 200
     imageTitle: Almaz Altynbek uulu

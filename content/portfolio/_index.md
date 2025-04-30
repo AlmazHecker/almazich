@@ -18,7 +18,7 @@ ShowRssButtonInSectionTermList: false
 
 - **Frameworks**: React, Vue, Next.js, Astro, Svelte
 - **Styling**: Tailwind CSS, Shadcn, MUI, Ant Design, PrimeVue, Chakra UI Radix UI, SASS
-- **Animation/3D/2D/**: GSAP, Three.js, PixiJS, PhaserJS
+- **Animation/3D/2D/**: SVG, GSAP, Three.js, PixiJS, PhaserJS
 - **Bundlers**: Webpack, Vite, Rollup
 - **Testing**: Jest, React Testing Library, Playwright
 - **Realtime**: WebRTC, WebSockets, SSE
@@ -29,6 +29,7 @@ ShowRssButtonInSectionTermList: false
 - **ORMs**: TypeORM, Prisma, Hibernate
 - **Authentication**: Supabase, JWT, OAuth2
 - **API**: REST, GraphQL,
+- **Serverless**: AWS Lambda, Vercel Functions
 
 ### 🗃️ Databases
 
@@ -37,7 +38,7 @@ ShowRssButtonInSectionTermList: false
 ### ☁️ DevOps & Tools
 
 - AWS, Vercel
-- Docker, NGINX, CircleCI
+- Docker, NGINX, CircleCI, Github Actions
 - Git, GitHub, GitLab
 - Postman, Vim, WebStorm, Linux, Nano, bash, sh, zsh
 

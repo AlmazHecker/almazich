@@ -2,7 +2,6 @@
 author: "Almaz Altynbek uulu"
 title: "About Me"
 date: "2025-04-29"
-tags: ["profile"]
 TocOpen: true
 draft: false
 hidemeta: true

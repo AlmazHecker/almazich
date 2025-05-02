@@ -40,6 +40,9 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  # showtags: true
+  # ShowBreadCrumbs: true
+  # ShowPostNavLinks: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -116,6 +119,14 @@ menu:
       name: Portfolio
       url: /portfolio/
       weight: 20
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 30
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 40
 
 pygmentsUseClasses: true
 markup:
@@ -135,3 +146,6 @@ outputs:
 caches:
   images:
     dir: :cacheDir/images
+taxonomies:
+  tag: tags
+  category: categories

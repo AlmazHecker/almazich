@@ -31,7 +31,7 @@ Browsers typically utilize three primary threads:
 
 ## The Pixel Pipeline: 5 Key Phases
 
-{{< figure align=center src="./pixel-pipeline.jpg" caption="Pixel pipeline phases" >}}
+{{< figure align=center src="https://raw.githubusercontent.com/almazhecker/almazich/master/static/posts/pixel-pipeline.jpg" caption="Pixel pipeline phases" >}}
 
 1. **JavaScript/CSS**
    Triggers visual updates such as DOM changes or class toggles.

@@ -46,4 +46,4 @@ draft: false
 - Open **Device Manager** on Windows and verify there's no warning icon on your device.
 - If a warning icon appears, install proper Fastboot drivers.
 
-- Example: On my device, ADB recognized the phone but fastboot didn’t. Installing the correct Fastboot drivers fixed it. Reference: [Beebom Fastboot Drivers Guide](https://beebom.com/fastboot-not-detecting-device-windows-10/)
+- Example: On my device, ADB recognized the phone but fastboot didn’t. After reinstalling [USB driver](https://developer.android.com/studio/run/win-usb) it started to work.

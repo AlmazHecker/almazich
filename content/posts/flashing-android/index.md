@@ -1,5 +1,5 @@
 ---
-title: "Flashing Xiaomi Fastboot ROM"
+title: "Flashing Xiaomi via Fastboot ROM"
 date: 2025-11-22T04:39:33.134Z
 tags: ["Android", "Firmware", "Fastboot"]
 draft: false
@@ -50,7 +50,7 @@ draft: false
 - If `fastboot devices`reports **waiting for devices**:
 
   - Check Device Manager for issues.
-  - Verify drivers are installed: [USB Drivers](https://developer.android.com/studio/run/win-usb)
+  - Verify [drivers](https://developer.android.com/studio/run/win-usb) are installed
   - Change USB cable/port.
 
 - If the script runs but does nothing:
